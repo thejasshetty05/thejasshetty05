@@ -78,7 +78,9 @@ ML model to predict heart disease using clinical data and evaluate with accuracy
   <a href="https://www.linkedin.com/in/thejas-shetty05/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:thejast758@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/thejasshetty05"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://thejasshetty05.github.io/Thejas-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
 </p>
+
 
 ---
 
