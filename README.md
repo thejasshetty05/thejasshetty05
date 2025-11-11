@@ -1,11 +1,9 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Thejas;Aspiring+Data+Scientist+%7C+ML+Enthusiast;Actively+Looking+for+Internships!" alt="Typing SVG" />
-</p>
+
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="150" style="border-radius: 50%;" alt="Thejas">
+  <img src="https://avatars.githubusercontent.com/u/thejasshetty05" width="150" style="border-radius: 50%;" alt="Thejas">
 </p>
 
 # 🙋‍♂️ About Me
