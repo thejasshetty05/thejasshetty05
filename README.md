@@ -1,10 +1,4 @@
-<!-- Banner -->
 
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/thejasshetty05" width="150" style="border-radius: 50%;" alt="Thejas">
-</p>
 
 # 🙋‍♂️ About Me
 
